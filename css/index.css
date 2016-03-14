@@ -1,0 +1,40 @@
+.h-three {
+	text-align: center;
+	font-weight: 900;
+	font-family: initial;
+	color: darkcyan;
+}
+
+.btn-align {
+	text-align: center;
+}
+
+.btn-space {
+	margin-top: 15%;
+	margin-bottom: 15%;
+}
+
+.thumb {
+	text-align: center;
+	min-height: 297px;
+
+}
+
+.thumb-result {
+	text-align: center;
+	min-height: 297px;
+}
+
+.thumbnail {
+	border: 0px;
+}
+
+.para {
+	text-align: center;
+	padding-bottom: 14%;
+    padding-top: 11%;
+}
+
+.btn-info {
+	margin-left: 82%;
+}

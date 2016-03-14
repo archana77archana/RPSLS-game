@@ -1,0 +1,12 @@
+.jumbotron h1 {
+    color: darkcyan;
+}
+
+.jumbotron-color {
+	background-color: #DE7;
+}
+
+.panel-head-css {
+	padding-bottom: 2%;
+    padding-top: 2%;
+}
